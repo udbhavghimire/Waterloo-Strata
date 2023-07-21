@@ -25,7 +25,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
-    <meta property="og:image" content="https://arborwesthome.ca/"> 
+    <meta property="og:image" content="https://waterloostrata.ca/Strata-Condos-Waterloo-Exterior-4-v8-full.jpg"> 
     <meta property="og:site_name" content="Strata Condos" />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -39,7 +39,7 @@
   "@context": "https://schema.org/",
   "@type": "WebSite",
   "name": "Strata Condos",
-  "url": "https://arborwesthome.ca/",
+  "url": "https://waterloostrata.ca/",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "{search_term_string}",
