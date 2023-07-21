@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/shrutidu/waterloostrata.ca/
+    - /bin/cp -r * $DEPLOYPATH
