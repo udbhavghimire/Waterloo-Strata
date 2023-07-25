@@ -19,14 +19,20 @@
     <title> Strata Condos - Waterloo | Register Today</title>
 
     <meta name="title" content="Strata Condos - Waterloo | Register Today">
-    <meta name="description" content="Strata Condos by HIP Developments is an upcoming pre construction condos development in 70 King Street North,Waterloo,ON.">
+    <meta name="description" content="Strata Condos by HIP Developments is an upcoming pre construction condos development in 70 King Street North, Waterloo, ON.">
     <meta name="keywords" content="Strata Condos Waterloo , Strata Condos, Strata Condos Waterloo, HIP Developments, Pre construction in waterloo,  Waterloo in Waterloo, Pre consruction single and towns waterloo">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
     <meta name="revisit-after" content="1 days">
+    <meta property="og:url" content="https://waterloostrata.ca/">
     <meta property="og:image" content="https://waterloostrata.ca/Strata-Condos-Waterloo-Exterior-4-v8-full.jpg"> 
     <meta property="og:site_name" content="Strata Condos" />
+
+
+    <meta itemprop="name" content="Strata Condos - Waterloo | Register Today">
+    <meta itemprop="description" content="Strata Condos - Waterloo | Register Today for plans and pricing">
+    <meta itemprop="image" content="https://waterloostrata.ca/images/Strata-Condos-Waterloo-Exterior-4-v8-full.jpg">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -34,19 +40,7 @@
    
     <link rel="manifest" href="/site.webmanifest">
 
-    <script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "WebSite",
-  "name": "Strata Condos",
-  "url": "https://waterloostrata.ca/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "{search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
+   
 </head>
 
 <body>
@@ -107,7 +101,7 @@
         <div class="container">
             <div class=" hero-container float-end" >
                 <div class="">
-                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Strata Condos</span>
+                <h1 class="main-titlee pb-0  mb-0 mt-2 mt-md-0" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">Strata Condos <br> Waterloo</span>
                 </h1>
                 <p class=" headline-textt mt-0 pt-3 text-white" data-aos="fade-up" data-aos-duration="2000" data-aos-delay="50">New condominium suites in uptown waterloo <br> Coming soon</p>
                 </div>
@@ -401,7 +395,19 @@ This location is in Waterloo. Nearby parks include Waterloo Park, Veteran's Gard
         </div>
     </footer>
 
-
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Strata Condos",
+  "url": "https://waterloostrata.ca/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 
     <script>
         // Change navbar background color on scroll
